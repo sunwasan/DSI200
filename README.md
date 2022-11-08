@@ -22,7 +22,7 @@ ______________________________________________________
   - Have explanations for every step. with principles and reasons for creating Data Visualization including results and conclusions
 
 2.Code 10 point 
-  - ฉan run and produce the same results as written in the report and presented.
+  - can run and produce the same results as written in the report and presented.
 
 3.Presentation 10 point
   - Describe the goal of the Data Visualization that you create and a description of the resulting output.
