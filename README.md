@@ -1,8 +1,6 @@
-# DSI200 (1/2562)
-DSI200 Group Project: Data Visualization Using Python
-
-
-______________________________________________________
+# DSI200 (1/20222)
+### DSI200 Group Project: Data Visualization Using Python
+<hr>
 
 
 ## Objective
